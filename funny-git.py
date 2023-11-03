@@ -4,4 +4,4 @@ print('git diff to show file delta')
 
 print('Kenneths favourite graph: git log --oneline --graph')
 
-print('you can edit on github')
+print('you cannot edit on github anymore')
